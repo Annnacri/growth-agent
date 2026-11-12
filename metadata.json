@@ -1,0 +1,6 @@
+{
+  "name": "SaaS Growth Marketing & Distribution Agent",
+  "description": "Autonomous AI Marketing Director for multi-channel campaign strategy, content generation, distribution, and CEO orchestrator delegation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
